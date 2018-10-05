@@ -1,0 +1,17 @@
+commit 05c389d0cff0207f47a3b75d93342be628251e78
+Author: tillsc23 <Till.schwaemmle@googlemail.com>
+Date:   Fri Oct 5 16:56:27 2018 +0200
+
+    added gitignore
+
+commit 5447da9363339dff324d5ca12d2a1d2c6abd3581
+Author: tillsc23 <Till.schwaemmle@googlemail.com>
+Date:   Fri Oct 5 16:44:42 2018 +0200
+
+    added two files
+
+commit cc06bb1281a4891f9128107816a12ba9d2d24fab
+Author: tillsc23 <Till.schwaemmle@googlemail.com>
+Date:   Fri Oct 5 16:40:43 2018 +0200
+
+    added readme.txt
